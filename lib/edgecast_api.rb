@@ -1,0 +1,3 @@
+module EdgecastApi
+  # Your code goes here...
+end
