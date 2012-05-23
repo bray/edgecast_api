@@ -1,3 +1,2 @@
-module EdgecastApi
-  # Your code goes here...
-end
+require 'httparty'
+require 'edgecast_api/edgecast_api'
